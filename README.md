@@ -243,6 +243,9 @@ For support:
 
 ## 🔮 Future Enhancements
 
+![fuutuure](https://github.com/user-attachments/assets/c5e95873-2863-4b94-a6e7-0b0256d5c695)
+
+
 - [ ] Add support for private repositories
 - [ ] Implement custom analysis templates
 - [ ] Add more visualization options
