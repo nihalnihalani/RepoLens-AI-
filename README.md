@@ -1,5 +1,7 @@
-# RepoLens-AI-
-An AI-powered GitHub repository analyzer that provides deep insights into code structure, development patterns, and team dynamics through automated analysis and interactive Q&amp;A.
+
+
+
+
 # RepoLens AI 🔍
 
 An AI-powered GitHub repository analyzer that runs in Google Colab, providing deep insights into code structure, development patterns, and team dynamics through automated analysis and interactive Q&A.
