@@ -129,6 +129,67 @@ generation_config = {
     "max_output_tokens": 8192,
 }
 ```
+## 📚 Use Cases
+
+![use case](https://github.com/user-attachments/assets/374a290c-eacf-4568-a442-67516b6d002e)
+
+### 1. Development Teams
+- **Code Quality Assessment**
+  - Analyze code patterns and architectural decisions
+  - Identify potential technical debt and areas for improvement
+  - Monitor development practices and standards adherence
+  - Track team coding patterns and consistency
+
+- **Team Performance Analysis**
+  - Understand contribution patterns across the team
+  - Identify peak productivity periods
+  - Analyze code review practices and effectiveness
+  - Monitor sprint velocity and development cycles
+
+- **Project Health Monitoring**
+  - Track repository growth and maintenance patterns
+  - Analyze documentation coverage and quality
+  - Monitor dependency management and updates
+  - Assess technical debt accumulation
+
+### 2. Project Managers
+- **Resource Planning**
+  - Identify areas requiring additional developer resources
+  - Understand team capacity and workload distribution
+  - Track project momentum and development velocity
+  - Plan sprint allocations based on historical patterns
+
+- **Progress Tracking**
+  - Monitor milestone completion rates
+  - Track feature development progress
+  - Analyze sprint effectiveness
+  - Identify bottlenecks in development workflow
+
+### 3. Individual Developers
+- **Repository Exploration**
+  - Quick understanding of new codebases
+  - Identify key components and dependencies
+  - Understand coding patterns and standards
+  - Learn from existing implementation patterns
+
+- **Code Contribution**
+  - Analyze existing patterns before contributing
+  - Understand team coding preferences
+  - Identify areas suitable for contribution
+  - Learn project-specific best practices
+
+### 4. Open Source Maintainers
+- **Community Management**
+  - Track contributor engagement
+  - Monitor community growth
+  - Analyze contribution patterns
+  - Identify active and potential contributors
+
+- **Project Maintenance**
+  - Monitor repository health
+  - Track issue resolution patterns
+  - Analyze pull request patterns
+  - Identify maintenance bottlenecks
 
 ## 🤝 Contributing
 
