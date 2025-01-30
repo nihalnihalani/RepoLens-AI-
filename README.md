@@ -1,4 +1,4 @@
-# RepoLens-AI-
+![RepoLens AI_ Intelligent GitHub Repository Analysis Platform - visual selection (1)](https://github.com/user-attachments/assets/d8cf5792-60c1-4e4c-ac65-6614d4b241da)# RepoLens-AI-
 An AI-powered GitHub repository analyzer that provides deep insights into code structure, development patterns, and team dynamics through automated analysis and interactive Q&amp;A.
 # RepoLens AI 🔍
 
@@ -13,6 +13,11 @@ RepoLens AI is a powerful tool that combines the accessibility of Google Colab w
 
 ![RepoLens AI_ Intelligent GitHub Repository Analysis Platform - visual selection (1)](https://github.com/user-attachments/assets/ce23bf11-c1c1-452c-b087-084ef73f35d5)
 
+![Uploading![RepoLens AI_ Intelligent GitHub Repository Analysis Platform - visual selection (2)](https://github.com/user-attachments/assets/dc40eb25-e84f-4f60-bc92-8f6ffad2a956)![RepoLens AI_ Intelligent GitHub Repository Analysis Platform - visual selection](https://github.com/user-attachments/assets/0edcf502-03f8-4b25-b0a0-9c7f25972140)
+![RepoLens AI_ Intelligent GitHub Repository Analysis Platform - visual selection](https://github.com/user-attachments/assets/009dd1da-33ba-4fe5-8eb7-ed47e550b437)
+![RepoLens AI_ Intelligent GitHub Repository Analysis Platform - visual selection (3)](https://github.com/user-attachments/assets/d70e73cb-a5f9-433c-b032-acc806d32c89)
+![RepoLens AI_ Intelligent GitHub Repository Analysis Platform - visual selection (2)](https://github.com/user-attachments/assets/fdec7983-693f-4839-8b7f-a5e74faf1807)
+ RepoLens AI_ Intelligent GitHub Repository Analysis Platform - visual selection (1).svg…]()
 
 
 
