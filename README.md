@@ -11,8 +11,9 @@ An AI-powered GitHub repository analyzer that runs in Google Colab, providing de
 
 RepoLens AI is a powerful tool that combines the accessibility of Google Colab with advanced AI analysis capabilities to help you understand GitHub repositories better. Perfect for developers, researchers, and teams looking to gain insights into codebases.
 
+![RepoLens AI_ Intelligent GitHub Repository Analysis Platform - visual selection (1)](https://github.com/user-attachments/assets/ce23bf11-c1c1-452c-b087-084ef73f35d5)
 
-![image](https://github.com/user-attachments/assets/e2f85bf9-53a1-43a0-8cc9-a3390607f36d)
+
 
 
 ## 🚀 Features
