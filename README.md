@@ -10,7 +10,7 @@ An AI-powered GitHub repository analyzer that runs in Google Colab, providing de
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VYA9NkpZeE43wC8NXKuS-1cUlVQhnm8R?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nihalnihalani/RepoLens-AI-/blob/main/RepoLens_AI.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🌟 Overview
