@@ -6,8 +6,7 @@ An AI-powered GitHub repository analyzer that runs in Google Colab, providing de
 
 ![RepoLens AI_ Intelligent GitHub Repository Analysis Platform - visual selection (3)](https://github.com/user-attachments/assets/330767fa-af12-4ef9-b610-6766fd5c8362)
 
-![Uploading RepoLens AI_ Intelligent Gi<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your-notebook-link)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
